@@ -15,7 +15,7 @@ from db import connect_db
 # Main CRUD window class
 
 
-class MainWindow(QMainWindow):
+class MainWindows(QMainWindow):
     def __init__(self):
         super().__init__()
 
